@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: none;
+}
+
+body{
+    display: flexbox;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+#conteinner{
+    padding: 1rem;
+}
+#resultado{
+    margin-top: 3rem;
+    background-color: rgb(0, 255, 21);
+    padding: 4rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.radioinput{
+    margin: 1rem;
+}
